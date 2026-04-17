@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# paradise-nursery
-=======
 # Paradise Nursery 🌿
 
 **Where Green Meets Serenity**
@@ -41,5 +38,4 @@ Deployed via GitHub Pages using the `gh-pages` package.
 
 ## Author
 
-Shahadat — BRAC University, CSE
->>>>>>> e629699 (Paradise Nursery final project)
+Shahadat — BRAC University, CSE 
