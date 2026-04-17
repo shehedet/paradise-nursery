@@ -2,7 +2,7 @@
 
 **Where Green Meets Serenity**
 
-A React-based e-commerce shopping application for a plant nursery, built as the final project for the IBM Full Stack JavaScript Developer course on Coursera.
+A React-based e-commerce shopping frontend application for a plant nursery, built as the final project for the IBM Full Stack JavaScript Developer course on Coursera.
 
 ## Project Overview
 
