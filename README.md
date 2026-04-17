@@ -25,17 +25,6 @@ Paradise Nursery is a front-end shopping application that allows users to:
 - React Router DOM
 - CSS (custom, no UI library)
 
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
-
 ## Deployment
 
 Deployed via GitHub Pages using the `gh-pages` package.
-
-## Author
-
-Shahadat — BRAC University, CSE 
